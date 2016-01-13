@@ -1,0 +1,28 @@
+name: Quadica
+favicon: null
+layout_spectrum: 0.8226069025695324
+typography_spectrum: 0.3944829523097724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.38359899912029505
+  lightness: 0.4628271721303463
+  saturation: 0.11323043680749834
+  rhythmicContrast: 0.0020332704298198223
+purpose: []
